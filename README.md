@@ -2,11 +2,7 @@
 
 🌱 I’m currently learning Web Development
 
-👨‍💻 All of my projects are available at https://atakanalkan.com
-
-📝 I regularly write articles on https://atakanalkan.com
-
-📫 How to reach me atk.kan238@hotmail.com
+📫 How to reach me lucas.blumel27@gmail.com
 
 
 Languages
