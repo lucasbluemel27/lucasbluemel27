@@ -1,16 +1,20 @@
-### Hi there 👋
+🔭 My interests Web Development, Cyber Security and Mobile Application
 
-<!--
-**lucasbluemel27/lucasbluemel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Web Development
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://atakanalkan.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 I regularly write articles on https://atakanalkan.com
+
+📫 How to reach me atk.kan238@hotmail.com
+
+
+Languages
+html5 css3   javascript   jquery   bootstrap   dotnet   csharp   java   kotlin   nodejs
+
+Databases
+mysql   mysql   mssql   mysql
+Tools
+android   arduino   firebase   linux   git   postman
+Ide
+nodejs   postman   postman
